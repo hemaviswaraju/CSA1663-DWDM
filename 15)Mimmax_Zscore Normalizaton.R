@@ -11,4 +11,4 @@ print(min_max_normalized_a)
 z_score_normalized <- (data - mean(data)) / sd(data)
 
 cat("\nZ-Score Normalization:\n")
-print(z_score_normalized)
+print(z_score_normalized) 
